@@ -1,2 +1,2 @@
-# chatbox.github.io
-excellent demo of the script ChatBox from 7ife
+# 7ife.github.io
+excellent demo of the scripts from 7ife
